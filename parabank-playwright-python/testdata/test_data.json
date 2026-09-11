@@ -1,0 +1,62 @@
+{
+  "login": {
+    "username": "john",
+    "password": "demo"
+  },
+  "invalid_login": {
+    "username": "automation_invalid_user",
+    "password": "wrong_password"
+  },
+  "registration": {
+    "first_name": "Automation",
+    "last_name": "Playwright",
+    "address": "100 Test Avenue",
+    "city": "Austin",
+    "state": "Texas",
+    "zip_code": "78701",
+    "phone": "5125550100",
+    "ssn": "123456789",
+    "email": "automation.playwright@example.com",
+    "username": "demo_automation_user",
+    "password": "Password123!",
+    "confirm_password": "Password123!"
+  },
+  "transfer": {
+    "amount": "25",
+    "from_account": "first",
+    "to_account": "first"
+  },
+  "bill_pay": {
+    "payee_name": "Automation Utilities",
+    "street": "200 Example Street",
+    "city": "Austin",
+    "state": "Texas",
+    "zip_code": "78702",
+    "phone": "5125550199",
+    "account_number": "987654321",
+    "verify_account": "987654321",
+    "amount": "15",
+    "from_account": "first"
+  },
+  "find_transactions": {
+    "transaction_id": "",
+    "transaction_date": "09-11-2026",
+    "from_date": "09-01-2026",
+    "to_date": "09-11-2026",
+    "amount": "25"
+  },
+  "profile": {
+    "first_name": "John",
+    "last_name": "Smith",
+    "address": "100 Test Avenue",
+    "city": "Austin",
+    "state": "Texas",
+    "zip_code": "78701",
+    "phone": "5125550100"
+  },
+  "loan": {
+    "amount": "1000",
+    "down_payment": "100",
+    "from_account": "first"
+  }
+}
